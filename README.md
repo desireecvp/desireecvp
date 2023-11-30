@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Desiree! 
 - 👀 I’m interested in books, movies and traveling the world 
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🌱 I’m currently learning HTML5, CSS and JavaScript
 - 📫 Reach me at desireecamillevieira@gmail.com
 
 <!---
