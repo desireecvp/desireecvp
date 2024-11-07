@@ -5,20 +5,18 @@ I'm a beginner developer who is passionate about learning new technologies and b
 ## 🚀 Technologies & Tools
 
 ### Languages & Frameworks:
-- **HTML5**: Semantic markup, structure, and accessibility
-- **CSS3**: Flexbox, Grid, responsive design, animations
-- **JavaScript**: ES6+, DOM manipulation, asynchronous JS (Promises, async/await)
-- **TypeScript**: Strongly typed superset of JavaScript for better scalability and error prevention
-- **React**: Components, hooks, state management (useState, useEffect)
-- **Tailwind CSS**: Utility-first CSS for fast and efficient styling
-- **Sass/SCSS**: Preprocessing for more modular, maintainable styles
-
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Tailwind CSS**
+- **Sass/SCSS**
+  
 ### Tools & Libraries:
-- **Git**: Version control with Git & GitHub
-- **VS Code**: Code editor with extensions for productivity
-- **Figma**: UI/UX design and prototyping
-- **Webpack**: Bundling assets and optimizing front-end performance
-- **Vite**: Next-generation build tool, for fast development experience
+- **Git**
+- **VS Code**
+- **Vite**
 
 
 ## 📚 Current Learning
