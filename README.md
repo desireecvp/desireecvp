@@ -34,7 +34,7 @@ I'm always looking to improve my front-end development skills. Right now, I’m 
 - LinkedIn: [linkedin-profile](https://www.linkedin.com/in/desir%C3%A8e-camille-v-possiedi-71bb12161/)
 - Email: [desireecamillevieira@gmail.com](mailto:desireecamillevieira@gmail.com)
 
-Also, you can access my personal online portfolio through [here](https://my-project-seven-gules.vercel.app/)
+Also, you can access my personal online portfolio through [here](https://desireecvp.vercel.app/)
 
 ## 🤝 Let's Connect!
 Feel free to explore my repositories, open an issue, or send me a message if you'd like to collaborate!
